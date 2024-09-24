@@ -8,17 +8,17 @@
     - 동아리 소모품 구매 (ex. 물티슈)
     - 3인 이상(동아리원)
       - 스터디 그룹에서 교육자료 구매 및 제본 비용
-  - 주의사항
+  - **${\textsf{\color{orange}주의사항}}$**
     - 교육영상 및 자료는 일영 원드라이브에 업로드해야 함.
-    - 교육자료나 스터디자료의 무단 배포를 금지합니다.
+    - 교육자료나 스터디자료의 무단 배포를 **${\textsf{\color{red}금지}}$**합니다.
 ## 출결
-  - ${\textsf{\color{orange}주의}}$ 2회시, **무단결석** 1회와 동일
-  - 무단결석 시 ${\textsf{\color{orange}주의}}$
-    - ${\textsf{\color{red}경고}}$ 2회시 면담
-    - ${\textsf{\color{orange}주의}}$ 3회시 퇴출
-    - 기술세미나 1회 진행시 경고 ${\textsf{\color{orange}주의}}$
+  - **${\textsf{\color{orange}주의}}$** 2회시, **무단결석** 1회와 동일
+  - 무단결석 시 **${\textsf{\color{orange}주의}}$**
+    - **${\textsf{\color{red}경고}}$** 2회시 면담
+    - **${\textsf{\color{orange}주의}}$** 3회시 퇴출
+    - 기술세미나 1회 진행시 경고 **${\textsf{\color{orange}주의}}$**
   - 무단 결석 기준
-    - 사유없이, 활동에 10분 이상 지각하는 경우 ${\textsf{\color{orange}주의}}$
-    - 라크 캘린더에 답변이 없으나, 활동에 참여하는 경우 ${\textsf{\color{orange}주의}}$
-    - 라크 캘린더를 수락 했으나, 활동에 무단으로 결석하는 경우 ${\textsf{\color{red}경고}}$
-    - 라크 캘린더에 답변이 없고, 활동에 무단으로 결석하는 경우 ${\textsf{\color{red}경고}}$
+    - 사유없이, 활동에 10분 이상 지각하는 경우 **${\textsf{\color{orange}주의}}$**
+    - 라크 캘린더에 답변이 없으나, 활동에 참여하는 경우 **${\textsf{\color{orange}주의}}$**
+    - 라크 캘린더를 수락 했으나, 활동에 무단으로 결석하는 경우 **${\textsf{\color{red}경고}}$**
+    - 라크 캘린더에 답변이 없고, 활동에 무단으로 결석하는 경우 **${\textsf{\color{red}경고}}$**
