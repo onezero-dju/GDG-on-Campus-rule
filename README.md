@@ -12,7 +12,7 @@
     - 교육영상 및 자료는 일영 원드라이브에 업로드해야 함.
     - 교육자료나 스터디자료의 무단 배포를 금지합니다.
 ## 출결
-  - ${\textsf{\color{green}주의}}$ 2회시, **무단결석** 1회와 동일
+  - ${\textsf{\color{red}주의}}$ 2회시, **무단결석** 1회와 동일
   - 무단결석 시 <span style="color:red">경고</span>
     - <span style="background-color:#FFE6E6">경고</span> 2회시 면담
     - <span style="background-color:#FFE6E6">경고</span> 3회시 퇴출
