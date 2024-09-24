@@ -15,8 +15,8 @@
   - **${\textsf{\color{orange}주의}}$** 2회시, **무단결석** 1회와 동일
   - 무단결석 시 **${\textsf{\color{orange}주의}}$**
     - **${\textsf{\color{red}경고}}$** 2회시 면담
-    - **${\textsf{\color{orange}주의}}$** 3회시 퇴출
-    - 기술세미나 1회 진행시 경고 **${\textsf{\color{orange}주의}}$**
+    - **${\textsf{\color{orange}경고}}$** 3회시 퇴출
+    - 기술세미나 1회 진행시 경고 **${\textsf{\color{green}감면}}$**
   - 무단 결석 기준
     - 사유없이, 활동에 10분 이상 지각하는 경우 **${\textsf{\color{orange}주의}}$**
     - 라크 캘린더에 답변이 없으나, 활동에 참여하는 경우 **${\textsf{\color{orange}주의}}$**
